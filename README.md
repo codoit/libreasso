@@ -1,2 +1,3 @@
 # libreasso
-Open-Source solution for association management
+
+Solution open-source de gestion d'association.
